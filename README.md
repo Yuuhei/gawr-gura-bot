@@ -3,5 +3,5 @@
 # Gawr Gura Bot
 AUDIOGON's own Discord Bot powered by Discord.js (no code here)
 
-# Regarding source code
+# Hey, there's no source code here!
 No source code here, all my projects are stored locally. Only resources/images/assets are stored on this repo.
